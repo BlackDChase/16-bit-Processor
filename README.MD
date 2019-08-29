@@ -46,19 +46,15 @@ _Finally_
     Final register values are stored in result.dat
 
 __Credits__
-IIT2018010 - Abhinav Batta
-    Desgined Data PATH
-    Desgined Data Memory
-    Managing & paperwork
 
-IIT2018036 - Kamran Hussain & IIT2018049 - Harsh Kochar
+IIT2018036 - Kamran Hussain & IIT2018049 - Harsh Kochar (BlackDChase@github):w
     Made ppt
     Desgined ALU
     Desgined Instruction Memory
     Desgined CU
     Desgined and Programmed Assembler 
 
-IIT2018046 - Aditya Kumar & IIT2018048 - Nikhil Gujrati
+IIT2018046 - Aditya Kumar (devill71@github) & IIT2018048 - Nikhil Gujrati
     Programmed all the modules
     
 
