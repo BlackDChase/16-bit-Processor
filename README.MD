@@ -59,7 +59,7 @@ IIT2018046 - Aditya Kumar (devill71@github) & IIT2018048 - Nikhil Gujrati
     
 
 
-*This project is the work of Aditya Kumar, Abhinav Batta, Harsh Kochar, Kamran Hussain and Nikhil Gujrati*
+*This project is the work of Aditya Kumar, Harsh Kochar, Kamran Hussain and Nikhil Gujrati*
 *It is done under supervision of Dr.Bibhas Ghosal Asst. Prof. of IT dept. in IIIT Allahabad*
 
 *Further Detailed in The Prestaion file `COA.pptx`*
